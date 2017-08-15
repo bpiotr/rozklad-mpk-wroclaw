@@ -4,6 +4,7 @@ W tym repozytorium można znaleźć na bieżąco aktualizowany rozkład MPK Wroc
 
 # Historia zmian
 
-| Zarejestrowano | Suma kontrolna | Commit | Rozkład od | Rozkład do |
-| -------------- | -------------- | ------ | ---------- | ---------- |
+| Zarejestrowano | Suma kontrolna | Commit | 
+| -------------- | -------------- | ------ | 
+
 
