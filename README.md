@@ -6,5 +6,5 @@ W tym repozytorium można znaleźć na bieżąco aktualizowany rozkład MPK Wroc
 
 | Zarejestrowano | Suma kontrolna | Commit | 
 | -------------- | -------------- | ------ | 
-
+| 2017-08-15 20:13:18.899005 | 52ad4c7beb4dd554096201985e7889b7d0dae70cc6f527955d6452adfc69fb3d | 8f9077845bcc1192ebc359dca4f51b9b5096ef1b |
 
