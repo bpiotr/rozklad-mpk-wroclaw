@@ -8,6 +8,7 @@ Celem repozytorium jest umożliwienie śledzenia historii zmian rozkładu i dost
 
 | Zarejestrowano | Suma kontrolna | Commit | 
 | -------------- | -------------- | ------ | 
+| 2017-09-03 22:00:09.046058 | 674938c15d94f107694670010176108fc0700134eca82922d65ee77a29df19ac | 4b2831364f73dfcca1a4fc7a4e4ff63993c13b37 |
 | 2017-08-30 20:46:56.259157 | 4fc9ebb6d848a804c3592d34226ceaf1627dc5238f3c0d790c088f5d7e997ce4 | af0ca12f05570b890dcd4915c166aede06aaf78a |
 | 2017-08-15 20:13:18.899005 | 52ad4c7beb4dd554096201985e7889b7d0dae70cc6f527955d6452adfc69fb3d | 8f9077845bcc1192ebc359dca4f51b9b5096ef1b |
 
