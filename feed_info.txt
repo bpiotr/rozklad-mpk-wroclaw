@@ -1,2 +1,2 @@
 feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date
-"UM Wrocław","http://www.wroclaw.pl/urzad","pl","20180203","20180302"
+"UM Wrocław","http://www.wroclaw.pl/urzad","pl","20180224","20180323"
